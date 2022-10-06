@@ -14,7 +14,7 @@
 
 
 <p align="left">
-<a href="https://twitter.com/gopal_keshari---" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gopal_keshari" height="30" width="40" /></a>
+<a href="https://twitter.com/gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gk" height="30" width="40" /></a>
 <a href="https://instagram.com/gopal_keshari01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopal_keshri" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gopal_keshari6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gopal_keshari6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gopal_keshari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gopal_keshari" height="30" width="40" /></a>
