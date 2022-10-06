@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopal-we12&label=Profile%20views&color=0e75b6&style=flat" alt="gopal-we12" /> </p>
 
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/gopal_keshari6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gopal_keshari6" height="30" width="40" /></a>
